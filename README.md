@@ -62,10 +62,6 @@ For the first module of this project will we need  to accomplish the following:
                   <ol>
                   <li>Stack market</li>
                   First we need to know little bit about stack market for that i suggest some source below <br/>
-                  <h5>Note:Few resource  in Tamil</h5>
- <a href="https://www.youtube.com/watch?v=RfOKl-ya5BY&t=804s"> Youtube video</a><br/>
- <a href="https://www.youtube.com/watch?v=0itXlKkGyJI"> Youtube video</a><br/>
- <a href="https://www.youtube.com/watch?v=Xn7KWR9EOGQ">Youtube video</a><br/><br/>
                   <li>bid price and ask price </li>
                    second we need to know about bid and ask in sharemarket.
                   <h5>bid</h5>
@@ -211,14 +207,6 @@ you’d want to submit to complete this module. It will be located in the direct
 where you executed the command.
 <hr>
 
-<h1>step 4: Bonus task Add unit tests in the test script in the repository</h1>
-
-I going to give work for you so do it on your own <br/>
-some resource may help you<br/> 
-<a href="https://www.youtube.com/watch?v=6tNS--WetLI&t=1106s">youtube videos</a><br/>
-<a href="https://www.youtube.com/watch?v=1Lfv5tUGsn8">youtube videos</a><br/>
-<a href="https://www.youtube.com/watch?v=3kzHmaeozDI">youtube videos</a><br/>
-<hr>
 <h1>concluion:</h1>
  What are the things i learn from this task 
  <ol>
